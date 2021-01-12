@@ -10,3 +10,5 @@ master raze pc gamer
 texto con mas texto de la ramita
 
 git pruebas
+
+mas texto agregado a master
