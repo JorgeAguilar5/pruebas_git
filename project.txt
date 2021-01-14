@@ -13,9 +13,7 @@ git pruebas
 
 mas texto agregado a master
 
-<<<<<<< HEAD
 texto de ramita
-=======
 
 
 
@@ -25,4 +23,3 @@ texto de ramita
 
 
 texto lejano
->>>>>>> master
