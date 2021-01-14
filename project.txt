@@ -1,23 +1,6 @@
-texto texto y mas texto
+Texto agregado en GITHUB
 
-chale
-
-tercera linea
-
-texto creado en master
-
-master raze pc gamer
-texto con mas texto de la ramita
-
-git pruebas
-
-mas texto agregado a master
-
-texto de ramita
-
-
-
-
+Texto agregado en repo local
 
 
 
