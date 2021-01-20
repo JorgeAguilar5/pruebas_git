@@ -13,7 +13,7 @@
 
 | Super  | Table  |
 | :------------: | :------------: |
-|Artic  |Monkeys   |
+|Arctic  |Monkeys   |
 
 ------------
 
